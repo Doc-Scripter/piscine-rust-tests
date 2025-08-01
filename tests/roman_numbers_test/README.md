@@ -4,6 +4,7 @@
 
 Implement the `From<u32>` trait to create a roman number from a number. The roman number should be in subtractive notation (the common way to write roman number I, II, III, IV, V, VI, VII, VIII, IX, X ...).
 
+
 Start by defining the digits as `RomanDigit` (`Nulla` is 0).
 
 Next define `RomanNumber` as a wrapper to a vector of `RomanDigit`, and implement the Trait `From<u32>`.
