@@ -1,4 +1,4 @@
-folder= <exercise name>
+folder= check_user_name
 help:
 	@echo "first replace <exercise name> with the name of the exercise"
 	@echo "to create new exercise solution library : make solution"
